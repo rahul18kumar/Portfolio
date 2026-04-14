@@ -27,6 +27,10 @@ A modern and responsive personal portfolio website showcasing my projects, skill
 * 🎨 PW Skills UI Clone
 * 🌐 Portfolio Website
 
+## 💡 Future Improvements
+* Add blog section
+* Backend integration for contact form
+
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
@@ -47,7 +51,3 @@ npm install
 ```
 npm run dev
 ---
-
-## 💡 Future Improvements
-* Add blog section
-* Backend integration for contact form
