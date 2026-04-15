@@ -1,7 +1,7 @@
 import { FaLightbulb, FaPaintBrush, FaCode, FaReact, FaServer, FaMobileAlt, FaTools, FaNodeJs, FaStripe, FaVuejs, FaFire, FaDatabase, FaCloud, FaRobot, FaMicrochip, FaDesktop,FaLock,FaJs,FaExchangeAlt } from 'react-icons/fa';
 
-import profile from     '../assets/profile.jpg';
-import Img_Rahul from     '../assets/Img_Rahul.jpg';
+import profile from  '../assets/profile.jpg';
+import Img_Rahul from  '../assets/img_cover.JPG';
 import projectImg1 from '../assets/project1.avif';
 
 
@@ -9,7 +9,7 @@ export const assets = {
     profile,
 }
 
-export const portimg ={
+export const portimg = {
   Img_Rahul,
 }
 
