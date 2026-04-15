@@ -1,7 +1,7 @@
 import { FaLightbulb, FaPaintBrush, FaCode, FaReact, FaServer, FaMobileAlt, FaTools, FaNodeJs, FaStripe, FaVuejs, FaFire, FaDatabase, FaCloud, FaRobot, FaMicrochip, FaDesktop,FaLock,FaJs,FaExchangeAlt } from 'react-icons/fa';
 
 import profile from  '../assets/profile.jpg';
-import Img_Rahul from  '../assets/img_cover.JPG';
+import Img_Rahul from  '../assets/img_cover.jpg';
 import projectImg1 from '../assets/project1.avif';
 
 
