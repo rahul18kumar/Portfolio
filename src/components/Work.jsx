@@ -25,9 +25,7 @@ const Work = () => {
                         workData.map((data, index) => (
                             <div
                                 key={index}
-                                className="relative pl-12 before:content-[''] before:absolute before:left-0 
-                                before:top-0 
-                                 before:h-full before:bg-purple cursor-pointer 
+                                className="relative pl-12 before:content-[''] before:absolute before:left-0 before:top-0 before:w-[2px] before:h-full before:bg-purple cursor-pointer 
                                 hover:-translate-y-2 transition-all duration-300"
                             >
                                 {/* timeline */}

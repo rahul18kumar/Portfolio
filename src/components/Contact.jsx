@@ -72,19 +72,16 @@ const Contact = () => {
                     </div>
 
                         <div className='pt-4'>
-                            <h3 className='text-lg font-semibold mb-4 '>Follow me</h3>
+                            <h3 className='text-lg font-semibold mb-4 mx-10'>Follow me</h3>
                             <div className='flex space-x-4'>
-                                <a href="https://github.com/rahul18kumar" className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-purple hover:bg-purple hover:text-white transition duration-300'>
+                                <a href="https://github.com/rahul18kumar" target='blank' className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-purple hover:bg-purple hover:text-white transition duration-300'>
                                     <FaGithub/>
                                 </a>
-                                 <a href="www.linkedin.com/in/rahul18kumar" className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-orange hover:bg-orange-400 hover:text-white transition duration-300'>
+                                 <a href="https://www.linkedin.com/in/rahul18kumar" target='blank' className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-orange hover:bg-orange-400 hover:text-white transition duration-300'>
                                     <FaLinkedin/>
                                 </a>
-                                 <a href="#" className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-blue-400 hover:bg-blue-400 hover:text-white transition duration-300'>
+                                 <a href="https://x.com/rahulku_18" target='blank' className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-blue-400 hover:bg-blue-400 hover:text-white transition duration-300'>
                                     <FaTwitter/>
-                                </a>
-                                 <a href="#" className='w-12 h-12 rounded-full bg-dark-300 flex items-center justify-center text-pink hover:bg-pink hover:text-white transition duration-300'>
-                                    <FaDribbble/>
                                 </a>
                             </div>
                         </div>

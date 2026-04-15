@@ -13,8 +13,8 @@ const Navbar = () => {
         <div>
             <a href="#" className='text-3xl font-bold text-white'>
               Rahul
-              <span className='text-purple'> Kumar</span>
-              <div className='w-4 h-4 bg-purple rounded-full'></div>
+              {/* <span className='text-purple'> Kumar</span> */}
+              {/* <div className='w-4 h-4 bg-purple rounded-full'></div> */}
             </a>
         </div>
         <div className='hidden md:flex space-x-10'>
