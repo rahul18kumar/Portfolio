@@ -95,7 +95,7 @@ export const projects = [
     description:
       "Designed and developed a scalable backend system for a video streaming platform with JWT authentication, CRUD Operation on feature like updation of avatar & coverimage.",
     image: projectImg1,
-    tech: ["Node.js", "Express.js", "MongoDB", "JWT", "Cloudinary"],
+    tech: ["Node.js", "Express.js", "MongoDB", "JWT", "Cloudinary", "bcrypt"],
     icons: [FaNodeJs, FaDatabase, FaCloud, FaLock],
     demo: "#",   //backend have no UI till now
     code: "https://github.com/rahul18kumar/node-backend",
